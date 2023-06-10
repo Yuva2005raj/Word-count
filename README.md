@@ -26,6 +26,8 @@ Print the output
 
 ## PROGRAM:
 ```
+# developed by: YUVARAJ B
+# register no : 212222230182
 def wordcount():
   count = 0
   with open("MyFile.txt","r") as f2:
